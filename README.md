@@ -20,11 +20,11 @@
 ## Установка
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/tic-tac-toe.git
+   git clone https://github.com/SergeyTatarintcev/krestiki-noliki.git
    ```
 2. Перейдите в директорию проекта:
     ```bash
-    cd tic-tac-toe
+    cd krestiki-noliki
     ```
 3. Запустите файл main.py:
     ```bash
